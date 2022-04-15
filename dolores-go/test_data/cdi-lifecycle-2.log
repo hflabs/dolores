@@ -1,0 +1,31 @@
+2019-10-16 20:27:31,456 INFO  LifecycleEventListener - CDI application [Long name 19.19-SNAPSHOT (e502f1c8ae32, core f57a545e5fbd)] [10.0.18.7] started in 70 s.
+2019-10-16 20:27:31,477 INFO  ApplicationMigrationListener - Application migration from 19.13-SNAPSHOT to 19.19-SNAPSHOT revision e502f1c8ae32 started
+2019-10-16 20:27:43,817 INFO  ApplicationMigrationListener - Application migration from 19.13-SNAPSHOT to 19.19-SNAPSHOT revision e502f1c8ae32 finished
+2019-11-05 19:46:25,450 INFO  LifecycleEventListener - CDI application [Long name 19.19-SNAPSHOT (e502f1c8ae32, core f57a545e5fbd)] [10.0.18.7] stopped.
+2019-11-05 19:57:33,414 INFO  LifecycleEventListener - CDI application [Long name 19.19-SNAPSHOT (6f47546824f7, core ea13cfa5748c)] [10.0.18.7] started in 36 s.
+2020-01-04 08:59:58,890 INFO  LifecycleEventListener - CDI application [Long name 19.19-SNAPSHOT (6f47546824f7, core ea13cfa5748c)] [10.0.18.7] stopped.
+2020-01-04 13:06:56,797 INFO  LifecycleEventListener - CDI application [Long name 19.19-SNAPSHOT (6f47546824f7, core ea13cfa5748c)] [10.0.18.7] started in 104 s.
+2020-03-17 09:57:20,946 INFO  LifecycleEventListener - CDI application [Long name 19.19-SNAPSHOT (6f47546824f7, core ea13cfa5748c)] [10.0.18.7] stopped.
+2020-03-17 09:58:21,299 INFO  LifecycleEventListener - CDI application [Long name 19.19-SNAPSHOT (6f47546824f7, core ea13cfa5748c)] [10.0.18.7] started in 38 s.
+2020-03-30 15:56:59,746 INFO  LifecycleEventListener - CDI application [Long name 19.19-SNAPSHOT (6f47546824f7, core ea13cfa5748c)] [10.0.18.7] stopped.
+2020-03-30 16:10:22,199 INFO  LifecycleEventListener - CDI application [Long name 20.5-SNAPSHOT (0ce3917a, core 5f7d9696)] [10.0.18.7] started in 71 s.
+2020-03-30 16:10:22,275 INFO  ApplicationMigrationListener - Application migration from 19.19-SNAPSHOT to 20.5-SNAPSHOT revision 0ce3917a started
+2020-03-30 16:10:28,090 INFO  ApplicationMigrationListener - Application migration from 19.19-SNAPSHOT to 20.5-SNAPSHOT revision 0ce3917a finished
+2020-04-06 15:37:50,758 INFO  LifecycleEventListener - CDI application [Long name 20.5-SNAPSHOT (0ce3917a, core 5f7d9696)] [10.0.18.7] stopped.
+2020-04-06 15:39:13,033 INFO  LifecycleEventListener - CDI application [Long name 20.5-SNAPSHOT (57bb8171, core 3a852f6d)] [10.0.18.7] started in 34 s.
+2020-04-15 11:38:49,890 INFO  LifecycleEventListener - CDI application [Long name 20.5-SNAPSHOT (57bb8171, core 3a852f6d)] [10.0.18.7] stopped.
+2020-04-15 11:40:07,650 INFO  LifecycleEventListener - CDI application [Long name 20.5-SNAPSHOT (57bb8171, core 0d4a5077)] [10.0.18.7] started in 30 s.
+2020-04-24 15:08:07,552 INFO  LifecycleEventListener - CDI application [Long name 20.5-SNAPSHOT (57bb8171, core 0d4a5077)] [10.0.18.7] stopped.
+2020-04-24 15:54:54,019 INFO  LifecycleEventListener - CDI application [Long name 20.5-SNAPSHOT (57bb8171, core 0d4a5077)] [10.0.18.7] started in 46 s.
+2020-05-18 14:47:33,784 INFO  LifecycleEventListener - CDI application [Long name 20.5-SNAPSHOT (57bb8171, core 0d4a5077)] [10.0.18.7] stopped.
+2020-05-18 14:48:54,920 INFO  LifecycleEventListener - CDI application [Long name 20.5-SNAPSHOT (57bb8171, core 0d4a5077)] [10.0.18.7] started in 46 s.
+2020-05-22 13:01:09,006 INFO  LifecycleEventListener - CDI application [Long name 20.5-SNAPSHOT (57bb8171, core 0d4a5077)] [10.0.18.7] stopped.
+2020-05-24 11:37:11,726 INFO  LifecycleEventListener - CDI application [Long name 20.5-SNAPSHOT (57bb8171, core 0d4a5077)] [10.0.18.7] started in 228 s.
+2020-06-18 12:49:44,652 INFO  LifecycleEventListener - CDI application [Long name 20.5-SNAPSHOT (57bb8171, core 0d4a5077)] [10.0.18.7] stopped.
+2020-06-18 12:50:45,592 INFO  LifecycleEventListener - CDI application [Long name 20.5-SNAPSHOT (57bb8171, core 0d4a5077)] [10.0.18.7] started in 39 s.
+2020-07-10 15:33:40,522 INFO  LifecycleEventListener - CDI application [Long name 20.5-SNAPSHOT (57bb8171, core 0d4a5077)] [10.0.18.7] stopped.
+2020-07-10 15:46:44,193 INFO  LifecycleEventListener - CDI application [Long name 20.12-SNAPSHOT (db5fee3e, core 2c980808)] [10.0.18.7] started in 55 s.
+2020-07-10 15:46:44,352 INFO  ApplicationMigrationListener - Application migration from 20.5-SNAPSHOT to 20.12-SNAPSHOT revision db5fee3e started
+2020-07-10 15:46:53,105 INFO  ApplicationMigrationListener - Application migration from 20.5-SNAPSHOT to 20.12-SNAPSHOT revision db5fee3e finished
+2020-07-14 14:58:45,524 INFO  LifecycleEventListener - CDI application [Long name 20.12-SNAPSHOT (db5fee3e, core 2c980808)] [10.0.18.7] stopped.
+2020-07-14 15:10:28,487 INFO  LifecycleEventListener - CDI application [Long name 20.12-SNAPSHOT (eb02e922, core badfd026)] [10.0.18.7] started in 36 s.

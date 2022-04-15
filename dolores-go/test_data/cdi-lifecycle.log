@@ -1,0 +1,322 @@
+2019-04-10 19:46:26,553 INFO  start - CDI application [Demo 19.6-SNAPSHOT (16f88cc9184e, core 8c6724ba5d50)] [10.221.0.41] started in 32 s.
+2019-04-10 19:46:26,598 INFO  ApplicationMigrationListener - Application migration from unknown to 19.6-SNAPSHOT revision 16f88cc9184e started
+2019-04-10 19:46:29,264 INFO  ApplicationMigrationListener - Application migration from unknown to 19.6-SNAPSHOT revision 16f88cc9184e finished
+2019-04-16 17:42:12,981 INFO  stop - CDI application [Demo 19.6-SNAPSHOT (16f88cc9184e, core 8c6724ba5d50)] [10.221.0.41] stopped.
+2019-04-16 17:51:54,930 INFO  start - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] started in 34 s.
+2019-04-16 18:01:03,937 INFO  stop - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] stopped.
+2019-04-16 18:01:30,154 INFO  start - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] started in 19 s.
+2019-04-18 16:19:30,376 INFO  stop - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] stopped.
+2019-04-18 16:19:56,920 INFO  start - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] started in 19 s.
+2019-04-19 15:55:38,229 INFO  stop - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] stopped.
+2019-04-19 18:14:41,242 INFO  start - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] started in 19 s.
+2019-04-19 21:13:24,962 INFO  stop - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] stopped.
+2019-04-19 21:13:53,111 INFO  start - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] started in 20 s.
+2019-04-19 21:19:06,906 INFO  stop - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] stopped.
+2019-04-19 21:19:33,448 INFO  start - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] started in 19 s.
+2019-04-19 22:49:54,269 INFO  stop - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] stopped.
+2019-04-19 22:51:01,248 INFO  start - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] started in 20 s.
+2019-04-19 23:14:01,904 INFO  stop - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] stopped.
+2019-04-19 23:14:46,263 INFO  start - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] started in 19 s.
+2019-04-19 23:25:38,485 INFO  stop - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] stopped.
+2019-04-19 23:26:20,586 INFO  start - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] started in 19 s.
+2019-04-19 23:45:29,405 INFO  stop - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] stopped.
+2019-04-19 23:46:03,261 INFO  start - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] started in 19 s.
+2019-04-21 20:26:15,578 INFO  stop - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] stopped.
+2019-04-21 20:28:10,887 INFO  start - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] started in 20 s.
+2019-04-22 09:17:04,698 INFO  stop - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] stopped.
+2019-04-22 09:17:33,393 INFO  start - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] started in 20 s.
+2019-04-22 09:24:45,934 INFO  stop - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] stopped.
+2019-04-22 09:25:12,504 INFO  start - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] started in 19 s.
+2019-04-24 12:00:40,369 INFO  stop - CDI application [Demo 19.6-SNAPSHOT (9f3dc906717c, core 6eb8ca98f9a6)] [10.221.0.41] stopped.
+2019-04-24 12:03:01,026 INFO  start - CDI application [Demo 19.7-SNAPSHOT (ef73ab1185ee, core 297b68484ebf)] [10.221.0.41] started in 30 s.
+2019-04-24 12:03:01,076 INFO  ApplicationMigrationListener - Application migration from 19.6-SNAPSHOT to 19.7-SNAPSHOT revision ef73ab1185ee started
+2019-04-24 12:03:07,658 INFO  ApplicationMigrationListener - Application migration from 19.6-SNAPSHOT to 19.7-SNAPSHOT revision ef73ab1185ee finished
+2019-04-24 22:27:34,655 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (ef73ab1185ee, core 297b68484ebf)] [10.221.0.41] stopped.
+2019-04-24 22:29:40,996 INFO  start - CDI application [Demo 19.7-SNAPSHOT (ef73ab1185ee, core 297b68484ebf)] [10.221.0.41] started in 25 s.
+2019-04-25 15:54:33,892 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (ef73ab1185ee, core 297b68484ebf)] [10.221.0.41] stopped.
+2019-04-25 15:55:57,924 INFO  start - CDI application [Demo 19.7-SNAPSHOT (dd2e33f9119a, core 2ddf63c47219)] [10.221.0.41] started in 41 s.
+2019-04-28 19:02:41,895 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (dd2e33f9119a, core 2ddf63c47219)] [10.221.0.41] stopped.
+2019-04-28 19:03:26,401 INFO  start - CDI application [Demo 19.7-SNAPSHOT (dd2e33f9119a, core 2ddf63c47219)] [10.221.0.41] started in 30 s.
+2019-04-28 19:27:47,052 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (dd2e33f9119a, core 2ddf63c47219)] [10.221.0.41] stopped.
+2019-04-28 19:28:18,196 INFO  start - CDI application [Demo 19.7-SNAPSHOT (dd2e33f9119a, core 2ddf63c47219)] [10.221.0.41] started in 23 s.
+2019-04-29 10:30:00,205 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (dd2e33f9119a, core 2ddf63c47219)] [10.221.0.41] stopped.
+2019-04-29 10:30:47,978 INFO  start - CDI application [Demo 19.7-SNAPSHOT (dd2e33f9119a, core 2ddf63c47219)] [10.221.0.41] started in 28 s.
+2019-04-30 00:03:58,910 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (dd2e33f9119a, core 2ddf63c47219)] [10.221.0.41] stopped.
+2019-04-30 00:05:40,920 INFO  start - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] started in 35 s.
+2019-04-30 10:11:48,980 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] stopped.
+2019-04-30 10:13:59,771 INFO  start - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] started in 28 s.
+2019-04-30 10:26:58,896 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] stopped.
+2019-04-30 10:27:30,408 INFO  start - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] started in 23 s.
+2019-04-30 12:11:26,832 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] stopped.
+2019-04-30 12:15:54,504 INFO  start - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] started in 24 s.
+2019-04-30 16:08:43,784 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] stopped.
+2019-04-30 16:09:29,562 INFO  start - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] started in 30 s.
+2019-04-30 16:38:39,659 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] stopped.
+2019-04-30 16:39:10,359 INFO  start - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] started in 22 s.
+2019-04-30 18:20:46,159 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] stopped.
+2019-04-30 18:21:18,013 INFO  start - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] started in 23 s.
+2019-05-01 12:43:45,639 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] stopped.
+2019-05-01 12:46:01,661 INFO  start - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] started in 30 s.
+2019-05-01 13:51:40,614 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] stopped.
+2019-05-01 13:52:18,105 INFO  start - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] started in 24 s.
+2019-05-01 14:55:48,508 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] stopped.
+2019-05-01 14:56:29,165 INFO  start - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] started in 22 s.
+2019-05-01 16:09:22,840 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] stopped.
+2019-05-01 16:10:02,029 INFO  start - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] started in 24 s.
+2019-05-06 12:33:43,592 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] stopped.
+2019-05-06 12:34:18,180 INFO  start - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] started in 23 s.
+2019-05-06 18:21:02,887 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (53f1e94f29a3, core 10149e20ac0f)] [10.221.0.41] stopped.
+2019-05-06 18:22:23,885 INFO  start - CDI application [Demo 19.7-SNAPSHOT (09e3545c77e3, core 5a84e5607f6d)] [10.221.0.41] started in 28 s.
+2019-05-07 12:22:07,991 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (09e3545c77e3, core 5a84e5607f6d)] [10.221.0.41] stopped.
+2019-05-07 12:22:40,787 INFO  start - CDI application [Demo 19.7-SNAPSHOT (09e3545c77e3, core 5a84e5607f6d)] [10.221.0.41] started in 23 s.
+2019-05-08 16:22:04,464 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (09e3545c77e3, core 5a84e5607f6d)] [10.221.0.41] stopped.
+2019-05-08 16:22:54,144 INFO  start - CDI application [Demo 19.7-SNAPSHOT (09e3545c77e3, core 5a84e5607f6d)] [10.221.0.41] started in 31 s.
+2019-05-08 16:30:23,129 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (09e3545c77e3, core 5a84e5607f6d)] [10.221.0.41] stopped.
+2019-05-08 16:30:54,206 INFO  start - CDI application [Demo 19.7-SNAPSHOT (09e3545c77e3, core 5a84e5607f6d)] [10.221.0.41] started in 23 s.
+2019-05-08 16:55:22,976 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (09e3545c77e3, core 5a84e5607f6d)] [10.221.0.41] stopped.
+2019-05-08 16:55:53,872 INFO  start - CDI application [Demo 19.7-SNAPSHOT (09e3545c77e3, core 5a84e5607f6d)] [10.221.0.41] started in 23 s.
+2019-05-08 17:38:46,016 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (09e3545c77e3, core 5a84e5607f6d)] [10.221.0.41] stopped.
+2019-05-08 17:39:17,269 INFO  start - CDI application [Demo 19.7-SNAPSHOT (09e3545c77e3, core 5a84e5607f6d)] [10.221.0.41] started in 23 s.
+2019-05-14 11:54:49,107 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (09e3545c77e3, core 5a84e5607f6d)] [10.221.0.41] stopped.
+2019-05-14 11:55:21,643 INFO  start - CDI application [Demo 19.7-SNAPSHOT (09e3545c77e3, core 5a84e5607f6d)] [10.221.0.41] started in 21 s.
+2019-05-30 20:49:03,774 INFO  stop - CDI application [Demo 19.7-SNAPSHOT (09e3545c77e3, core 5a84e5607f6d)] [10.221.0.41] stopped.
+2019-05-30 20:53:32,671 INFO  start - CDI application [Demo 19.9-SNAPSHOT (0128e8009e3a, core 38a9c48395be)] [10.221.0.41] started in 82 s.
+2019-05-30 20:53:32,731 INFO  ApplicationMigrationListener - Application migration from 19.7-SNAPSHOT to 19.9-SNAPSHOT revision 0128e8009e3a started
+2019-05-30 20:53:38,514 INFO  ApplicationMigrationListener - Application migration from 19.7-SNAPSHOT to 19.9-SNAPSHOT revision 0128e8009e3a finished
+2019-05-31 11:34:45,185 INFO  stop - CDI application [Demo 19.9-SNAPSHOT (0128e8009e3a, core 38a9c48395be)] [10.221.0.41] stopped.
+2019-05-31 11:36:50,369 INFO  start - CDI application [Demo 19.9-SNAPSHOT (0128e8009e3a, core 38a9c48395be)] [10.221.0.41] started in 24 s.
+2019-05-31 11:58:46,921 INFO  stop - CDI application [Demo 19.9-SNAPSHOT (0128e8009e3a, core 38a9c48395be)] [10.221.0.41] stopped.
+2019-05-31 12:00:47,515 INFO  start - CDI application [Demo 19.9-SNAPSHOT (0128e8009e3a, core 38a9c48395be)] [10.221.0.41] started in 22 s.
+2019-06-07 13:15:40,731 INFO  stop - CDI application [Demo 19.9-SNAPSHOT (0128e8009e3a, core 38a9c48395be)] [10.221.0.41] stopped.
+2019-06-07 13:17:55,289 INFO  start - CDI application [Demo 19.9-SNAPSHOT (0128e8009e3a, core 38a9c48395be)] [10.221.0.41] started in 26 s.
+2019-06-08 17:51:21,363 INFO  stop - CDI application [Demo 19.9-SNAPSHOT (0128e8009e3a, core 38a9c48395be)] [10.221.0.41] stopped.
+2019-06-08 17:55:23,707 INFO  start - CDI application [Demo 19.9-SNAPSHOT (c4ac30d69175, core 5bfb5adddb21)] [10.221.0.41] started in 38 s.
+2019-06-11 23:39:23,623 INFO  stop - CDI application [Demo 19.9-SNAPSHOT (c4ac30d69175, core 5bfb5adddb21)] [10.221.0.41] stopped.
+2019-06-11 23:40:08,245 INFO  start - CDI application [Demo 19.9-SNAPSHOT (c4ac30d69175, core 5bfb5adddb21)] [10.221.0.41] started in 29 s.
+2019-06-12 00:25:46,309 INFO  stop - CDI application [Demo 19.9-SNAPSHOT (c4ac30d69175, core 5bfb5adddb21)] [10.221.0.41] stopped.
+2019-06-12 00:26:17,442 INFO  start - CDI application [Demo 19.9-SNAPSHOT (c4ac30d69175, core 5bfb5adddb21)] [10.221.0.41] started in 22 s.
+2019-06-17 16:15:39,544 INFO  stop - CDI application [Demo 19.9-SNAPSHOT (c4ac30d69175, core 5bfb5adddb21)] [10.221.0.41] stopped.
+2019-06-17 16:38:20,250 INFO  start - CDI application [Demo 19.10-SNAPSHOT (320b693dc186, core 133c4ce51abb)] [10.221.0.41] started in 48 s.
+2019-06-17 16:38:20,292 INFO  ApplicationMigrationListener - Application migration from 19.9-SNAPSHOT to 19.10-SNAPSHOT revision 320b693dc186 started
+2019-06-17 16:38:25,750 INFO  ApplicationMigrationListener - Application migration from 19.9-SNAPSHOT to 19.10-SNAPSHOT revision 320b693dc186 finished
+2019-06-19 09:03:19,091 INFO  start - CDI application [Demo 19.10-SNAPSHOT (320b693dc186, core 133c4ce51abb)] [10.221.0.41] started in 36 s.
+2019-06-19 09:07:03,224 INFO  stop - CDI application [Demo 19.10-SNAPSHOT (320b693dc186, core 133c4ce51abb)] [10.221.0.41] stopped.
+2019-06-19 09:08:03,992 INFO  start - CDI application [Demo 19.10-SNAPSHOT (320b693dc186, core 133c4ce51abb)] [10.221.0.41] started in 24 s.
+2019-06-28 17:01:13,494 INFO  stop - CDI application [Demo 19.10-SNAPSHOT (320b693dc186, core 133c4ce51abb)] [10.221.0.41] stopped.
+2019-06-28 19:11:54,919 INFO  start - CDI application [Demo 19.10-SNAPSHOT (320b693dc186, core 133c4ce51abb)] [10.221.0.41] started in 42 s.
+2019-06-28 19:11:57,720 INFO  stop - CDI application [Demo 19.10-SNAPSHOT (320b693dc186, core 133c4ce51abb)] [10.221.0.41] stopped.
+2019-06-28 19:14:22,525 INFO  start - CDI application [Demo 19.11-SNAPSHOT (2719caa92a32, core 3fdd19d474dc)] [10.221.0.41] started in 69 s.
+2019-06-28 19:14:22,564 INFO  ApplicationMigrationListener - Application migration from 19.10-SNAPSHOT to 19.11-SNAPSHOT revision 2719caa92a32 started
+2019-06-28 19:14:31,645 INFO  ApplicationMigrationListener - Application migration from 19.10-SNAPSHOT to 19.11-SNAPSHOT revision 2719caa92a32 finished
+2019-06-29 14:01:05,846 INFO  stop - CDI application [Demo 19.11-SNAPSHOT (2719caa92a32, core 3fdd19d474dc)] [10.221.0.41] stopped.
+2019-06-29 14:03:38,684 INFO  start - CDI application [Demo 19.11-SNAPSHOT (2719caa92a32, core 3fdd19d474dc)] [10.221.0.41] started in 39 s.
+2019-07-02 11:04:37,035 INFO  stop - CDI application [Demo 19.11-SNAPSHOT (2719caa92a32, core 3fdd19d474dc)] [10.221.0.41] stopped.
+2019-07-02 11:15:22,741 INFO  start - CDI application [Demo 19.11-SNAPSHOT (d1449f8c88b5, core 5170873a0193)] [10.221.0.41] started in 34 s.
+2019-07-03 12:28:29,607 INFO  stop - CDI application [Demo 19.11-SNAPSHOT (d1449f8c88b5, core 5170873a0193)] [10.221.0.41] stopped.
+2019-07-03 12:29:27,939 INFO  start - CDI application [Demo 19.11-SNAPSHOT (d1449f8c88b5, core 5170873a0193)] [10.221.0.41] started in 30 s.
+2019-07-04 18:13:31,931 INFO  stop - CDI application [Demo 19.11-SNAPSHOT (d1449f8c88b5, core 5170873a0193)] [10.221.0.41] stopped.
+2019-07-04 18:14:20,771 INFO  start - CDI application [Demo 19.11-SNAPSHOT (d1449f8c88b5, core 5170873a0193)] [10.221.0.41] started in 33 s.
+2019-07-07 02:02:16,633 INFO  stop - CDI application [Demo 19.11-SNAPSHOT (d1449f8c88b5, core 5170873a0193)] [10.221.0.41] stopped.
+2019-07-07 02:03:20,060 INFO  start - CDI application [Demo 19.11-SNAPSHOT (d1449f8c88b5, core 5170873a0193)] [10.221.0.41] started in 39 s.
+2019-07-07 10:32:20,262 INFO  stop - CDI application [Demo 19.11-SNAPSHOT (d1449f8c88b5, core 5170873a0193)] [10.221.0.41] stopped.
+2019-07-07 10:33:06,957 INFO  start - CDI application [Demo 19.11-SNAPSHOT (d1449f8c88b5, core 5170873a0193)] [10.221.0.41] started in 33 s.
+2019-07-07 10:46:25,892 INFO  stop - CDI application [Demo 19.11-SNAPSHOT (d1449f8c88b5, core 5170873a0193)] [10.221.0.41] stopped.
+2019-07-07 10:47:09,368 INFO  start - CDI application [Demo 19.11-SNAPSHOT (d1449f8c88b5, core 5170873a0193)] [10.221.0.41] started in 33 s.
+2019-07-08 09:21:41,327 INFO  stop - CDI application [Demo 19.11-SNAPSHOT (d1449f8c88b5, core 5170873a0193)] [10.221.0.41] stopped.
+2019-07-08 09:32:40,422 INFO  start - CDI application [Demo 19.11-SNAPSHOT (d1449f8c88b5, core 5170873a0193)] [10.221.0.41] started in 47 s.
+2019-07-12 13:31:28,603 INFO  stop - CDI application [Demo 19.11-SNAPSHOT (d1449f8c88b5, core 5170873a0193)] [10.221.0.41] stopped.
+2019-07-12 13:35:47,917 INFO  start - CDI application [Demo 19.12-SNAPSHOT (35764678606e, core 8875447c7e3d)] [10.221.0.41] started in 123 s.
+2019-07-12 13:35:47,958 INFO  ApplicationMigrationListener - Application migration from 19.11-SNAPSHOT to 19.12-SNAPSHOT revision 35764678606e started
+2019-07-12 13:35:54,699 INFO  ApplicationMigrationListener - Application migration from 19.11-SNAPSHOT to 19.12-SNAPSHOT revision 35764678606e finished
+2019-07-15 19:06:59,336 INFO  stop - CDI application [Demo 19.12-SNAPSHOT (35764678606e, core 8875447c7e3d)] [10.221.0.41] stopped.
+2019-07-15 19:19:25,348 INFO  start - CDI application [Demo 19.12-SNAPSHOT (35764678606e, core 8875447c7e3d)] [10.221.0.41] started in 41 s.
+2019-07-16 15:30:42,936 INFO  stop - CDI application [Demo 19.12-SNAPSHOT (35764678606e, core 8875447c7e3d)] [10.221.0.41] stopped.
+2019-07-16 15:31:55,392 INFO  start - CDI application [Demo 19.12-SNAPSHOT (35764678606e, core 8875447c7e3d)] [10.221.0.41] started in 37 s.
+2019-07-17 18:18:12,586 INFO  stop - CDI application [Demo 19.12-SNAPSHOT (35764678606e, core 8875447c7e3d)] [10.221.0.41] stopped.
+2019-07-17 18:19:08,942 INFO  start - CDI application [Demo 19.12-SNAPSHOT (35764678606e, core 8875447c7e3d)] [10.221.0.41] started in 36 s.
+2019-07-17 19:07:14,035 INFO  stop - CDI application [Demo 19.12-SNAPSHOT (35764678606e, core 8875447c7e3d)] [10.221.0.41] stopped.
+2019-07-17 19:07:53,066 INFO  start - CDI application [Demo 19.12-SNAPSHOT (35764678606e, core 8875447c7e3d)] [10.221.0.41] started in 29 s.
+2019-08-01 13:30:20,566 INFO  stop - CDI application [Demo 19.12-SNAPSHOT (35764678606e, core 8875447c7e3d)] [10.221.0.41] stopped.
+2019-08-01 13:32:49,020 INFO  start - CDI application [Demo 19.12-SNAPSHOT (35764678606e, core 8875447c7e3d)] [10.221.0.41] started in 72 s.
+2019-08-01 13:34:08,948 INFO  stop - CDI application [Demo 19.12-SNAPSHOT (35764678606e, core 8875447c7e3d)] [10.221.0.41] stopped.
+2019-08-01 13:43:04,480 INFO  start - CDI application [Demo 19.12-SNAPSHOT (35764678606e, core 8875447c7e3d)] [10.221.0.41] started in 47 s.
+2019-08-02 11:50:15,225 INFO  stop - CDI application [Demo 19.12-SNAPSHOT (35764678606e, core 8875447c7e3d)] [10.221.0.41] stopped.
+2019-08-02 12:06:32,059 INFO  start - CDI application [Demo 19.12-SNAPSHOT (35764678606e, core 8875447c7e3d)] [10.221.0.41] started in 51 s.
+2019-08-16 11:16:29,861 INFO  stop - CDI application [Demo 19.12-SNAPSHOT (35764678606e, core 8875447c7e3d)] [10.221.0.41] stopped.
+2019-08-16 11:20:17,064 INFO  start - CDI application [Demo 19.14-SNAPSHOT (4b360d5ee763, core 16d0a388de41)] [10.221.0.41] started in 119 s.
+2019-08-16 11:20:17,112 INFO  ApplicationMigrationListener - Application migration from 19.12-SNAPSHOT to 19.14-SNAPSHOT revision 4b360d5ee763 started
+2019-08-16 11:20:29,904 INFO  ApplicationMigrationListener - Application migration from 19.12-SNAPSHOT to 19.14-SNAPSHOT revision 4b360d5ee763 finished
+2019-08-30 15:53:47,903 INFO  stop - CDI application [Demo 19.14-SNAPSHOT (4b360d5ee763, core 16d0a388de41)] [10.221.0.41] stopped.
+2019-08-30 16:03:08,452 INFO  start - CDI application [Demo 19.14-SNAPSHOT (d7d37a0e68fa, core cbc582f7d3a7)] [10.221.0.41] started in 120 s.
+2019-08-30 20:55:02,176 INFO  stop - CDI application [Demo 19.14-SNAPSHOT (d7d37a0e68fa, core cbc582f7d3a7)] [10.221.0.41] stopped.
+2019-08-31 09:11:36,333 INFO  start - CDI application [Demo 19.14-SNAPSHOT (d7d37a0e68fa, core cbc582f7d3a7)] [10.221.0.41] started in 100 s.
+2019-08-31 09:11:40,014 INFO  stop - CDI application [Demo 19.14-SNAPSHOT (d7d37a0e68fa, core cbc582f7d3a7)] [10.221.0.41] stopped.
+2019-08-31 12:21:11,032 INFO  start - CDI application [Demo 19.14-SNAPSHOT (d7d37a0e68fa, core cbc582f7d3a7)] [10.221.0.41] started in 90 s.
+2019-09-02 13:03:49,103 INFO  stop - CDI application [Demo 19.14-SNAPSHOT (d7d37a0e68fa, core cbc582f7d3a7)] [10.221.0.41] stopped.
+2019-09-02 13:44:39,969 INFO  start - CDI application [Demo 19.14-SNAPSHOT (d7d37a0e68fa, core cbc582f7d3a7)] [10.221.0.41] started in 55 s.
+2019-09-03 16:37:10,495 INFO  stop - CDI application [Demo 19.14-SNAPSHOT (d7d37a0e68fa, core cbc582f7d3a7)] [10.221.0.41] stopped.
+2019-09-03 16:40:49,384 INFO  start - CDI application [Demo 19.14-SNAPSHOT (d7d37a0e68fa, core cbc582f7d3a7)] [10.221.0.41] started in 45 s.
+2019-09-03 16:47:16,958 INFO  start - CDI application [Demo 19.14-SNAPSHOT (d7d37a0e68fa, core cbc582f7d3a7)] [10.221.0.41] started in 31 s.
+2019-09-05 12:25:00,412 INFO  stop - CDI application [Demo 19.14-SNAPSHOT (d7d37a0e68fa, core cbc582f7d3a7)] [10.221.0.41] stopped.
+2019-09-05 12:26:56,238 INFO  start - CDI application [Demo 19.14-SNAPSHOT (d7d37a0e68fa, core cbc582f7d3a7)] [10.221.0.41] started in 37 s.
+2019-09-09 16:04:17,331 INFO  stop - CDI application [Demo 19.14-SNAPSHOT (d7d37a0e68fa, core cbc582f7d3a7)] [10.221.0.41] stopped.
+2019-09-09 16:10:00,453 INFO  start - CDI application [Demo 19.14-SNAPSHOT (39c7508d9832, core cbc582f7d3a7)] [10.221.0.41] started in 282 s.
+2019-09-23 13:29:01,652 INFO  start - CDI application [Demo 19.14-SNAPSHOT (39c7508d9832, core cbc582f7d3a7)] [10.221.0.41] started in 37 s.
+2019-10-04 20:09:10,560 INFO  stop - CDI application [Demo 19.14-SNAPSHOT (39c7508d9832, core cbc582f7d3a7)] [10.221.0.41] stopped.
+2019-10-04 20:11:44,276 INFO  start - CDI application [Demo 19.14-SNAPSHOT (39c7508d9832, core cbc582f7d3a7)] [10.221.0.41] started in 91 s.
+2019-10-08 01:17:41,783 INFO  start - CDI application [Demo 19.14-SNAPSHOT (39c7508d9832, core cbc582f7d3a7)] [10.221.0.41] started in 37 s.
+2019-10-11 16:23:48,413 INFO  stop - CDI application [Demo 19.14-SNAPSHOT (39c7508d9832, core cbc582f7d3a7)] [10.221.0.41] stopped.
+2019-10-12 03:54:54,624 INFO  start - CDI application [Demo 19.17-SNAPSHOT (b85139e11e13, core 6c86c2dbed66)] [10.221.0.41] started in 107 s.
+2019-10-12 03:54:54,808 INFO  ApplicationMigrationListener - Application migration from 19.14-SNAPSHOT to 19.17-SNAPSHOT revision b85139e11e13 started
+2019-10-12 03:55:13,366 INFO  ApplicationMigrationListener - Application migration from 19.14-SNAPSHOT to 19.17-SNAPSHOT revision b85139e11e13 finished
+2019-10-12 14:43:12,584 INFO  stop - CDI application [Demo 19.17-SNAPSHOT (b85139e11e13, core 6c86c2dbed66)] [10.221.0.41] stopped.
+2019-10-12 14:51:46,365 INFO  start - CDI application [Demo 19.17-SNAPSHOT (b85139e11e13, core 6c86c2dbed66)] [10.221.0.41] started in 61 s.
+2019-10-14 08:11:28,590 INFO  stop - CDI application [Demo 19.17-SNAPSHOT (b85139e11e13, core 6c86c2dbed66)] [10.221.0.41] stopped.
+2019-10-14 08:12:44,586 INFO  start - CDI application [Demo 19.17-SNAPSHOT (b85139e11e13, core 6c86c2dbed66)] [10.221.0.41] started in 56 s.
+2019-10-16 11:27:35,768 INFO  stop - CDI application [Demo 19.17-SNAPSHOT (b85139e11e13, core 6c86c2dbed66)] [10.221.0.41] stopped.
+2019-10-16 11:30:28,700 INFO  start - CDI application [Demo 19.17-SNAPSHOT (b85139e11e13, core 6c86c2dbed66)] [10.221.0.41] started in 154 s.
+2019-10-17 10:32:21,917 INFO  stop - CDI application [Demo 19.17-SNAPSHOT (b85139e11e13, core 6c86c2dbed66)] [10.221.0.41] stopped.
+2019-10-17 10:39:23,340 INFO  start - CDI application [Demo 19.17-SNAPSHOT (b85139e11e13, core 6c86c2dbed66)] [10.221.0.41] started in 288 s.
+2019-10-18 07:35:45,115 INFO  stop - CDI application [Demo 19.17-SNAPSHOT (b85139e11e13, core 6c86c2dbed66)] [10.221.0.41] stopped.
+2019-10-18 07:41:14,775 INFO  start - CDI application [Demo 19.17-SNAPSHOT (b85139e11e13, core 6c86c2dbed66)] [10.221.0.41] started in 290 s.
+2019-10-18 22:20:46,712 INFO  stop - CDI application [Demo 19.17-SNAPSHOT (b85139e11e13, core 6c86c2dbed66)] [10.221.0.41] stopped.
+2019-10-18 22:27:39,262 INFO  start - CDI application [Demo 19.17-SNAPSHOT (b85139e11e13, core 6c86c2dbed66)] [10.221.0.41] started in 287 s.
+2019-10-19 10:38:10,165 INFO  stop - CDI application [Demo 19.17-SNAPSHOT (b85139e11e13, core 6c86c2dbed66)] [10.221.0.41] stopped.
+2019-10-19 12:28:40,622 INFO  start - CDI application [Demo 19.17-SNAPSHOT (b85139e11e13, core 6c86c2dbed66)] [10.221.0.41] started in 65 s.
+2019-10-22 17:11:12,508 INFO  stop - CDI application [Demo 19.17-SNAPSHOT (b85139e11e13, core 6c86c2dbed66)] [10.221.0.41] stopped.
+2019-10-22 17:15:05,458 INFO  start - CDI application [Demo 19.17-SNAPSHOT (d865b5b4babe, core 2b93229d266d)] [10.221.0.41] started in 114 s.
+2019-10-24 09:01:13,112 INFO  stop - CDI application [Demo 19.17-SNAPSHOT (d865b5b4babe, core 2b93229d266d)] [10.221.0.41] stopped.
+2019-10-24 09:20:36,533 INFO  start - CDI application [Demo 19.19-SNAPSHOT (d77ffa1b6e12, core a3fcf1d4d931)] [10.221.0.41] started in 567 s.
+2019-10-24 09:20:36,590 INFO  ApplicationMigrationListener - Application migration from 19.17-SNAPSHOT to 19.19-SNAPSHOT revision d77ffa1b6e12 started
+2019-10-24 09:21:34,399 INFO  ApplicationMigrationListener - Application migration from 19.17-SNAPSHOT to 19.19-SNAPSHOT revision d77ffa1b6e12 finished
+2019-10-26 13:13:13,199 INFO  stop - CDI application [Demo 19.19-SNAPSHOT (d77ffa1b6e12, core a3fcf1d4d931)] [10.221.0.41] stopped.
+2019-10-26 13:25:51,831 INFO  start - CDI application [Demo 19.19-SNAPSHOT (d77ffa1b6e12, core 638782309613)] [10.221.0.41] started in 79 s.
+2019-10-29 12:28:27,274 INFO  stop - CDI application [Demo 19.19-SNAPSHOT (d77ffa1b6e12, core 638782309613)] [10.221.0.41] stopped.
+2019-10-29 12:32:57,552 INFO  start - CDI application [Demo 19.19-SNAPSHOT (d77ffa1b6e12, core 638782309613)] [10.221.0.41] started in 117 s.
+2019-10-29 17:26:34,148 INFO  stop - CDI application [Demo 19.19-SNAPSHOT (d77ffa1b6e12, core 638782309613)] [10.221.0.41] stopped.
+2019-10-29 17:29:02,402 INFO  start - CDI application [Demo 19.19-SNAPSHOT (d77ffa1b6e12, core 638782309613)] [10.221.0.41] started in 63 s.
+2019-11-04 13:34:44,927 INFO  stop - CDI application [Demo 19.19-SNAPSHOT (d77ffa1b6e12, core 638782309613)] [10.221.0.41] stopped.
+2019-11-04 15:11:29,169 INFO  start - CDI application [Demo 19.19-SNAPSHOT (d77ffa1b6e12, core 638782309613)] [10.221.0.41] started in 61 s.
+2019-11-07 20:50:56,201 INFO  stop - CDI application [Demo 19.19-SNAPSHOT (d77ffa1b6e12, core 638782309613)] [10.221.0.41] stopped.
+2019-11-07 21:03:42,575 INFO  start - CDI application [Demo 19.19-SNAPSHOT (d77ffa1b6e12, core 638782309613)] [10.221.0.41] started in 66 s.
+2019-11-07 21:03:47,637 INFO  stop - CDI application [Demo 19.19-SNAPSHOT (d77ffa1b6e12, core 638782309613)] [10.221.0.41] stopped.
+2019-11-07 21:06:04,131 INFO  start - CDI application [Demo 19.19-SNAPSHOT (4a9643f8b846, core ebb54d5ed517)] [10.221.0.41] started in 63 s.
+2019-11-15 14:34:56,123 INFO  stop - CDI application [Demo 19.19-SNAPSHOT (4a9643f8b846, core ebb54d5ed517)] [10.221.0.41] stopped.
+2019-11-15 14:40:38,195 INFO  start - CDI application [Demo 19.19-SNAPSHOT (4a9643f8b846, core ebb54d5ed517)] [10.221.0.41] started in 56 s.
+2019-11-15 14:43:28,733 INFO  stop - CDI application [Demo 19.19-SNAPSHOT (4a9643f8b846, core ebb54d5ed517)] [10.221.0.41] stopped.
+2019-11-15 14:48:35,928 INFO  start - CDI application [Demo 19.19-SNAPSHOT (4a9643f8b846, core ebb54d5ed517)] [10.221.0.41] started in 53 s.
+2019-11-21 10:40:45,485 INFO  stop - CDI application [Demo 19.19-SNAPSHOT (4a9643f8b846, core ebb54d5ed517)] [10.221.0.41] stopped.
+2019-11-21 10:48:05,376 INFO  start - CDI application [Demo 19.19-SNAPSHOT (4a9643f8b846, core ebb54d5ed517)] [10.221.0.41] started in 55 s.
+2019-11-25 12:54:18,554 INFO  stop - CDI application [Demo 19.19-SNAPSHOT (4a9643f8b846, core ebb54d5ed517)] [10.221.0.41] stopped.
+2019-11-25 12:57:53,730 INFO  start - CDI application [Demo 19.19-SNAPSHOT (b7a8e3c862da, core ebb54d5ed517)] [10.221.0.41] started in 53 s.
+2019-11-25 13:02:00,248 INFO  stop - CDI application [Demo 19.19-SNAPSHOT (b7a8e3c862da, core ebb54d5ed517)] [10.221.0.41] stopped.
+2019-11-25 13:05:53,132 INFO  start - CDI application [Demo 19.19-SNAPSHOT (b7a8e3c862da, core ebb54d5ed517)] [10.221.0.41] started in 52 s.
+2019-11-27 11:14:51,007 INFO  stop - CDI application [Demo 19.19-SNAPSHOT (b7a8e3c862da, core ebb54d5ed517)] [10.221.0.41] stopped.
+2019-11-27 11:17:28,256 INFO  start - CDI application [Demo 19.19-SNAPSHOT (b7a8e3c862da, core ebb54d5ed517)] [10.221.0.41] started in 52 s.
+2019-12-05 20:26:57,900 INFO  stop - CDI application [Demo 19.19-SNAPSHOT (b7a8e3c862da, core ebb54d5ed517)] [10.221.0.41] stopped.
+2019-12-05 20:42:15,518 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core 6725597c8248)] [10.221.0.41] started in 75 s.
+2019-12-05 20:42:15,564 INFO  ApplicationMigrationListener - Application migration from 19.19-SNAPSHOT to 19.22-SNAPSHOT revision c31c7cf5d47f started
+2019-12-05 20:43:21,791 INFO  ApplicationMigrationListener - Application migration from 19.19-SNAPSHOT to 19.22-SNAPSHOT revision c31c7cf5d47f finished
+2019-12-06 18:10:16,459 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core 6725597c8248)] [10.221.0.41] stopped.
+2019-12-06 18:33:26,423 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core 6725597c8248)] [10.221.0.41] started in 64 s.
+2019-12-07 17:50:25,288 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core 6725597c8248)] [10.221.0.41] stopped.
+2019-12-07 17:53:28,587 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core 6725597c8248)] [10.221.0.41] started in 69 s.
+2019-12-07 17:58:44,329 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core 6725597c8248)] [10.221.0.41] stopped.
+2019-12-07 17:59:57,108 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core 6725597c8248)] [10.221.0.41] started in 57 s.
+2019-12-08 15:13:49,109 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core 6725597c8248)] [10.221.0.41] stopped.
+2019-12-08 15:16:34,577 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core 6725597c8248)] [10.221.0.41] started in 59 s.
+2019-12-09 12:08:18,668 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core 6725597c8248)] [10.221.0.41] stopped.
+2019-12-09 12:10:32,790 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] started in 68 s.
+2019-12-10 17:49:26,083 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] stopped.
+2019-12-10 17:51:21,217 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] started in 93 s.
+2019-12-21 13:36:48,965 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] stopped.
+2019-12-21 13:39:32,123 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] started in 55 s.
+2019-12-21 14:23:51,440 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] stopped.
+2019-12-21 14:26:01,321 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] started in 56 s.
+2019-12-26 20:17:29,597 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] stopped.
+2019-12-26 20:18:51,773 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] started in 58 s.
+2019-12-30 13:39:36,273 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] started in 52 s.
+2019-12-30 13:40:01,295 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] stopped.
+2019-12-30 13:41:34,948 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] started in 48 s.
+2020-01-17 16:50:28,701 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] stopped.
+2020-01-18 12:34:48,984 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] started in 67 s.
+2020-01-20 17:01:18,625 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] stopped.
+2020-01-20 17:02:36,993 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] started in 54 s.
+2020-01-20 17:07:29,773 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] stopped.
+2020-01-20 17:08:43,560 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] started in 55 s.
+2020-01-20 17:09:54,928 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] stopped.
+2020-01-20 17:11:09,018 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] started in 53 s.
+2020-01-23 15:11:05,313 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] stopped.
+2020-01-23 15:13:50,857 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] started in 69 s.
+2020-01-23 18:25:56,306 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] stopped.
+2020-01-23 19:10:38,279 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] started in 62 s.
+2020-01-23 19:12:53,717 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] stopped.
+2020-01-23 19:24:06,800 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] started in 65 s.
+2020-01-23 19:24:23,110 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] stopped.
+2020-01-23 19:26:32,939 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] started in 65 s.
+2020-01-23 19:26:46,281 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] stopped.
+2020-01-23 19:32:48,020 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] started in 69 s.
+2020-01-23 19:34:21,986 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] stopped.
+2020-01-23 19:37:17,836 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] started in 68 s.
+2020-01-27 11:11:11,585 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] stopped.
+2020-01-27 11:26:52,312 INFO  start - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] started in 62 s.
+2020-01-27 11:26:57,485 INFO  stop - CDI application [Demo 19.22-SNAPSHOT (c31c7cf5d47f, core db23089150f9)] [10.221.0.41] stopped.
+2020-01-27 14:32:21,624 INFO  start - CDI application [Demo 19.24-SNAPSHOT (41bcccdd408e, core 9ceeb90d9f2b)] [10.221.0.41] started in 45 s.
+2020-01-27 14:32:21,683 INFO  ApplicationMigrationListener - Application migration from 19.22-SNAPSHOT to 19.24-SNAPSHOT revision 41bcccdd408e started
+2020-01-27 14:33:13,734 INFO  ApplicationMigrationListener - Application migration from 19.22-SNAPSHOT to 19.24-SNAPSHOT revision 41bcccdd408e finished
+2020-02-15 01:34:06,500 INFO  stop - CDI application [Demo 19.24-SNAPSHOT (41bcccdd408e, core 9ceeb90d9f2b)] [10.221.0.41] stopped.
+2020-02-15 01:54:21,756 INFO  start - CDI application [Demo 20.1-SNAPSHOT (0e54424aa71a, core 76445b627a57)] [10.221.0.41] started in 128 s.
+2020-02-15 01:54:21,823 INFO  ApplicationMigrationListener - Application migration from 19.24-SNAPSHOT to 20.1-SNAPSHOT revision 0e54424aa71a started
+2020-02-15 01:54:37,028 INFO  ApplicationMigrationListener - Application migration from 19.24-SNAPSHOT to 20.1-SNAPSHOT revision 0e54424aa71a finished
+2020-02-18 16:42:08,660 INFO  stop - CDI application [Demo 20.1-SNAPSHOT (0e54424aa71a, core 76445b627a57)] [10.221.0.41] stopped.
+2020-02-18 16:55:18,832 INFO  start - CDI application [Demo 20.1-SNAPSHOT (0e54424aa71a, core 76445b627a57)] [10.221.0.41] started in 102 s.
+2020-02-28 19:34:07,815 INFO  stop - CDI application [Demo 20.1-SNAPSHOT (0e54424aa71a, core 76445b627a57)] [10.221.0.41] stopped.
+2020-02-28 20:34:50,801 INFO  start - CDI application [Demo 20.1-SNAPSHOT (0e54424aa71a, core 76445b627a57)] [10.221.0.41] started in 49 s.
+2020-03-11 10:55:36,807 INFO  stop - CDI application [Demo 20.1-SNAPSHOT (0e54424aa71a, core 76445b627a57)] [10.221.0.41] stopped.
+2020-03-11 11:13:02,812 INFO  start - CDI application [Demo 20.3-SNAPSHOT (4021c72f, core b5efbb88)] [10.221.0.41] started in 106 s.
+2020-03-11 11:13:02,863 INFO  ApplicationMigrationListener - Application migration from 20.1-SNAPSHOT to 20.3-SNAPSHOT revision 4021c72f started
+2020-03-11 11:13:40,247 INFO  ApplicationMigrationListener - Application migration from 20.1-SNAPSHOT to 20.3-SNAPSHOT revision 4021c72f finished
+2020-03-12 08:26:53,258 INFO  stop - CDI application [Demo 20.3-SNAPSHOT (4021c72f, core b5efbb88)] [10.221.0.41] stopped.
+2020-03-12 08:36:04,111 INFO  start - CDI application [Demo 20.3-SNAPSHOT (4021c72f, core ace00857)] [10.221.0.41] started in 50 s.
+2020-03-18 07:08:19,349 INFO  stop - CDI application [Demo 20.3-SNAPSHOT (4021c72f, core ace00857)] [10.221.0.41] stopped.
+2020-03-18 07:19:42,572 INFO  start - CDI application [Demo 20.3-SNAPSHOT (0dd31ef5, core 176895e8)] [10.221.0.41] started in 64 s.
+2020-03-22 20:11:15,277 INFO  stop - CDI application [Demo 20.3-SNAPSHOT (0dd31ef5, core 176895e8)] [10.221.0.41] stopped.
+2020-03-22 20:36:19,723 INFO  start - CDI application [Demo 20.3-SNAPSHOT (0dd31ef5, core 176895e8)] [10.221.0.41] started in 47 s.
+2020-03-22 20:36:39,976 INFO  stop - CDI application [Demo 20.3-SNAPSHOT (0dd31ef5, core 176895e8)] [10.221.0.41] stopped.
+2020-03-22 23:19:07,802 INFO  start - CDI application [Demo 20.3-SNAPSHOT (0dd31ef5, core 176895e8)] [10.221.0.41] started in 49 s.
+2020-03-24 18:06:11,528 INFO  stop - CDI application [Demo 20.3-SNAPSHOT (0dd31ef5, core 176895e8)] [10.221.0.41] stopped.
+2020-03-24 18:09:29,103 INFO  start - CDI application [Demo 20.3-SNAPSHOT (0dd31ef5, core 176895e8)] [10.221.0.41] started in 63 s.
+2020-04-01 15:38:49,201 INFO  stop - CDI application [Demo 20.3-SNAPSHOT (0dd31ef5, core 176895e8)] [10.221.0.41] stopped.
+2020-04-01 15:48:38,967 INFO  start - CDI application [Demo 20.3-SNAPSHOT (0dd31ef5, core 176895e8)] [10.221.0.41] started in 54 s.
+2020-04-17 20:04:16,841 INFO  stop - CDI application [Demo 20.3-SNAPSHOT (0dd31ef5, core 176895e8)] [10.221.0.41] stopped.
+2020-04-17 20:36:53,717 INFO  start - CDI application [Demo 20.5-SNAPSHOT (95d2941b, core e8b71c6e)] [10.221.0.41] started in 84 s.
+2020-04-17 20:36:53,763 INFO  ApplicationMigrationListener - Application migration from 20.3-SNAPSHOT to 20.5-SNAPSHOT revision 95d2941b started
+2020-04-17 20:38:04,501 INFO  ApplicationMigrationListener - Application migration from 20.3-SNAPSHOT to 20.5-SNAPSHOT revision 95d2941b finished
+2020-04-18 00:02:04,580 INFO  stop - CDI application [Demo 20.5-SNAPSHOT (95d2941b, core e8b71c6e)] [10.221.0.41] stopped.
+2020-04-18 00:19:35,933 INFO  start - CDI application [Demo 20.5-SNAPSHOT (95d2941b, core e8b71c6e)] [10.221.0.41] started in 65 s.
+2020-04-22 18:54:25,556 INFO  stop - CDI application [Demo 20.5-SNAPSHOT (95d2941b, core e8b71c6e)] [10.221.0.41] stopped.
+2020-04-22 19:05:48,477 INFO  start - CDI application [Demo 20.5-SNAPSHOT (95d2941b, core e8b71c6e)] [10.221.0.41] started in 74 s.
+2020-04-22 19:06:09,649 INFO  stop - CDI application [Demo 20.5-SNAPSHOT (95d2941b, core e8b71c6e)] [10.221.0.41] stopped.
+2020-04-22 19:09:06,801 INFO  start - CDI application [Demo 20.5-SNAPSHOT (b2458686, core e86995bd)] [10.221.0.41] started in 51 s.
+2020-04-27 18:43:26,416 INFO  stop - CDI application [Demo 20.5-SNAPSHOT (b2458686, core e86995bd)] [10.221.0.41] stopped.
+2020-04-27 18:44:50,833 INFO  start - CDI application [Demo 20.5-SNAPSHOT (b2458686, core e86995bd)] [10.221.0.41] started in 60 s.
+2020-05-15 17:03:15,449 INFO  stop - CDI application [Demo 20.5-SNAPSHOT (b2458686, core e86995bd)] [10.221.0.41] stopped.
+2020-05-15 17:13:42,463 INFO  start - CDI application [Demo 20.5-SNAPSHOT (b2458686, core e86995bd)] [10.221.0.41] started in 52 s.
+2020-05-30 00:42:26,801 INFO  stop - CDI application [Demo 20.5-SNAPSHOT (b2458686, core e86995bd)] [10.221.0.41] stopped.
+2020-05-30 01:04:41,979 INFO  start - CDI application [Demo 20.8.1-SNAPSHOT (cc4d559a, core e4d5e403)] [10.221.0.41] started in 145 s.
+2020-05-30 01:04:42,200 INFO  ApplicationMigrationListener - Application migration from 20.5-SNAPSHOT to 20.8.1-SNAPSHOT revision cc4d559a started
+2020-05-30 01:05:50,371 INFO  ApplicationMigrationListener - Application migration from 20.5-SNAPSHOT to 20.8.1-SNAPSHOT revision cc4d559a finished
+2020-05-31 11:21:16,066 INFO  stop - CDI application [Demo 20.8.1-SNAPSHOT (cc4d559a, core e4d5e403)] [10.221.0.41] stopped.
+2020-05-31 11:47:42,462 INFO  start - CDI application [Demo 20.8.1-SNAPSHOT (cc4d559a, core e4d5e403)] [10.221.0.41] started in 58 s.
+2020-06-04 13:17:07,104 INFO  stop - CDI application [Demo 20.8.1-SNAPSHOT (cc4d559a, core e4d5e403)] [10.221.0.41] stopped.
+2020-06-04 13:19:01,185 INFO  start - CDI application [Demo 20.8.1-SNAPSHOT (fe3a2571, core 8e591d34)] [10.221.0.41] started in 60 s.
+2020-06-05 13:05:51,480 INFO  stop - CDI application [Demo 20.8.1-SNAPSHOT (fe3a2571, core 8e591d34)] [10.221.0.41] stopped.
+2020-06-05 13:07:35,787 INFO  start - CDI application [Demo 20.8.1-SNAPSHOT (fe3a2571, core 1bd981a6)] [10.221.0.41] started in 58 s.
+2020-06-19 19:15:27,520 INFO  stop - CDI application [Demo 20.8.1-SNAPSHOT (fe3a2571, core 1bd981a6)] [10.221.0.41] stopped.
+2020-06-19 20:10:44,748 INFO  start - CDI application [Demo 20.8.1-SNAPSHOT (fe3a2571, core 1bd981a6)] [10.221.0.41] started in 53 s.
+2020-06-30 07:44:19,721 INFO  stop - CDI application [Demo 20.8.1-SNAPSHOT (fe3a2571, core 1bd981a6)] [10.221.0.41] stopped.
+2020-06-30 07:46:04,120 INFO  start - CDI application [Demo 20.8.1-SNAPSHOT (016e707d, core dd7982f7)] [10.221.0.41] started in 52 s.
+2020-07-17 15:53:10,418 INFO  stop - CDI application [Demo 20.8.1-SNAPSHOT (016e707d, core dd7982f7)] [10.221.0.41] stopped.
+2020-07-17 16:00:38,406 INFO  start - CDI application [Demo 21.19-SNAPSHOT (01fbd6f4, core 2c980808)] [10.221.0.41] started in 137 s.
+2020-07-17 16:00:38,584 INFO  ApplicationMigrationListener - Application migration from 20.8.1-SNAPSHOT to 20.12-SNAPSHOT revision 01fbd6f4 started
+2020-07-17 16:11:24,264 INFO  ApplicationMigrationListener - Application migration from 20.8.1-SNAPSHOT to 20.12-SNAPSHOT revision 01fbd6f4 finished
